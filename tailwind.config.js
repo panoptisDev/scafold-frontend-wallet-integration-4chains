@@ -22,11 +22,11 @@ module.exports = {
         1025: "1.025",
       },
       colors: {
-        bitcoin: "#f89414",
+        bitcoin: "#ffffff",
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
         ring: "hsl(var(--ring))",
-        background: "hsl(var(--background))",
+        background: "hsl(218.08, 100%, 50%)",//background: "hsl(var(--background))",
         foreground: "hsl(var(--foreground))",
         primary: {
           DEFAULT: "hsl(var(--primary))",

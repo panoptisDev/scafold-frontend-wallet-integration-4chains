@@ -1,6 +1,6 @@
 export type SiteConfig = typeof siteConfig
 
 export const siteConfig = {
-  name: "ZetaChain's Frontend Template",
+  name: "Evm Frontend Template",
   description: "",
 }
