@@ -1,8 +1,7 @@
-# ZetaChain Frontend App Template
+# Frontend App Template
 
 This repository provides a frontend app template for developers looking to build
-applications on ZetaChain. It's designed to demonstrate various ZetaChain
-functionalities and serve as a starting point for custom DApp development.
+applications evm chains. It's designed to serve as a starting point for custom DApp development.
 
 ![Screenshot](./public/screenshot.png)
 
